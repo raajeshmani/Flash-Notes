@@ -19,3 +19,7 @@ Well it returned *ERROR | Unexpected end of JSON input while parsing near*
 
 Rebooting fixed it :)
 
+Checking out various pre built templates 
+
+	awesome-angular by PatrickJS 
+
